@@ -1,0 +1,32 @@
+{
+    "name": "Website",
+    "description": "Kurtis Dunn",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+    "express" : "~3.4.4", 	
+	 "winston": "0.6.x",
+	 "express-winston": "0.2.x",
+	 "underscore": "1.6.0",
+	 "mongoose" : "~3.8.1", 
+	 "passport" : "~0.1.17", 		
+	 "passport-local" : "~0.1.6", 
+    "passport-facebook" : "~1.0.2", 
+    "passport-twitter" : "~1.0.2", 
+	 "async": "latest",
+    "body-parser": "~1.0.0",
+    "cookie-parser": "~1.0.0",
+    "method-override": "~1.0.0",
+	 "forever": "latest",
+	 "bcrypt-nodejs": "latest",
+	"express-session": "latest",
+	 "connect-flash" : "~0.1.1", 
+	  "ua-parser-js" : "~0.7.0", 
+	"consolidate":"latest",
+	"colors": "latest"
+    },
+    "engines": {
+        "node": "0.8.4",
+        "npm": "1.1.49"
+    }
+}
