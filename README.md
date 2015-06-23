@@ -1,4 +1,5 @@
-# Nomobabo Stack
+# Node Mongo Backbone Stack
+
 
 In the Back...
 
